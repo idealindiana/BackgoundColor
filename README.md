@@ -1,2 +1,2 @@
-# BackgoundColor
+# BackgroundColor
 Created with CodeSandbox
